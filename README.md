@@ -16,11 +16,13 @@ tutorial membuat ayay
 ### A. Bucket untuk Frontend
 - **Bucket name: nama-bucket**
 - **Region: Sesuai Soal**
-- **Blocl=k all public access: ON(off ketika nanti disetting)
+- **Bloclk: all public access: OFF**
+- **Ke Tab Properties-> Static website hosting(Enable)-> index html semua**
 ### B. Bucket Untuk Upload
 - **Bucket Name: sesuai soal**
 - **Region: Sesuai Soal**
 - **Blok all public access: ON**
+
   
 
 
