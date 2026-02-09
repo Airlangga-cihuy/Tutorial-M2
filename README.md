@@ -17,11 +17,13 @@ tutorial membuat ayay
 - **Bucket name: nama-bucket**
 - **Region: Sesuai Soal**
 - **Bloclk: all public access: OFF**
-- **Ke Tab Properties-> Static website hosting(Enable)-> index html semua**
+- **Ke Tab Properties-> Static website hosting(Enable)-> index html semua(index.Doc,Error.Doc**
+
 ### B. Bucket Untuk Upload
 - **Bucket Name: sesuai soal**
 - **Region: Sesuai Soal**
 - **Blok all public access: ON**
+- 
 
   
 
